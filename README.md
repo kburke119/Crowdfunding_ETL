@@ -9,7 +9,7 @@
 ## About
 Built an ETL pipeline using Python, Pandas, Python dictionary methods, and regular expressions to extract and transform the data. After I transformed the data, I created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, I uploaded the CSV file data into a Postgres database.
 
-### Pipeline
+## Pipeline
 Created the Category and Subcategory DataFrames
 
 <img width="190" alt="category_DataFrame" src="https://user-images.githubusercontent.com/10196762/227071570-195f3d17-becb-4803-aa9d-8919bc01b000.png">
